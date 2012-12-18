@@ -21,5 +21,10 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+     <groupId>org.apache.activemq.tooling</groupId>
+        <artifactId>maven-activemq-plugin</artifactId>
+        <version>5.7.0</version>
+         </dependency>
   </dependencies>
 </project>
